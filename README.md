@@ -1,12 +1,14 @@
-# Benchmark 1. "TemplateName"
+# Benchmark 9. IMIC
 
-This template details the expected Minimum Viable Content of a benchmark. The meta-model below formally defines all minimum constitutive elements of a benchmark so as to share reproducible results.
+This repository details the IMIC contest and gives all relevant data about the first edition : Flexibac.
 
-![image-20231022154230422](images/image-20231022154230422.png)
+![image-20231022154230422](images/VisuelPlanningBenchmark.PNG)
 
 ## Introduction
 
 *Guidelines:*
+
+Website under construction !
 
 Write a short introduction of the benchmark that includes at least the following items:
 
