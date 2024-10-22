@@ -1,4 +1,4 @@
-# Benchmark 9. IMIC
+# Benchmark 9. Intelligent Manufacturing International Contest: IMIC
 
 This repository details the IMIC contest and gives all relevant data about the first edition : Flexibac.
 
