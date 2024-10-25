@@ -15,12 +15,16 @@ People interested in joining the contest should consider the following planning
 ![image-20231022154230422](images/VisuelPlanningBenchmark.PNG)
 
 ### *From September to May* : Registration and team formation
-The registration to the contest is possible via an online form 
+Registration is opened from September to May.
+Teams should registered to the contest via an online form available [here](https://forms.office.com/e/FapnDQsVvv).
+There are no limitations in the number of members in team, that could be constituted of students, industrials or academics.
+The registration is completely free.
 
 ### *From October to May* : Publication of the problem on the web platform
-The subject of the first edition of IMIC  is the Flexibac problem.
-Information on this case study are available here.
-![image](https://github.com/user-attachments/assets/02a6a8ce-6a3b-407a-93b6-a2433f136776)
+The subject of this first edition of IMIC is the Flexibac problem.
+Teams are free to use whatever scientific methods they want to find the best solutions to the given problem.
+Details on this problem are available here. 
+![image](images/Flexibac.png)
 
 ### 
 
