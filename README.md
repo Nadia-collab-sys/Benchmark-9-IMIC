@@ -10,13 +10,15 @@ To do so, the IMIC aims, each year, to propose a manufacturing problem submitted
 Results of the contest will then be considered as candidate solutions of the proposed problem, and will be compared and archived as a new benchmark instance.
 In a couple of years, IMIC is expected to become a reference benchmark for the community.
 
-## Fist edition's theme: The Flexibac probem
+## First edition's theme: The Flexibac probem
 The theme was announced during the SOHOMA 2024 conference.
 In this problem, a robot loads carts with mail containers having the same destination (homogeneous carts).
 There are 250 possible container destinations and only 10 carts around the robot with a fixed capacity.
-Two types of decisions should be made :
-- Which carts around the robot all along the production? 
-+ Which containers are treated by the robot  and which are treated manually by operators?
+Several types of decisions should be made :
+- Which carts around the robot all along the production?
+- When to change carts? 
++ Which containers are treated by the robot and which are treated manually by operators?
++ ...
   
 More details on the problem are available here.
 
