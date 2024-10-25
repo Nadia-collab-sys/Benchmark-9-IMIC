@@ -10,6 +10,19 @@ To do so, the IMIC aims, each year, to propose a manufacturing problem submitted
 Results of the contest will then be considered as candidate solutions of the proposed problem, and will be compared and archived as a new benchmark instance.
 In a couple of years, IMIC is expected to become a reference benchmark for the community.
 
+## Fist edition's theme: The Flexibac probem
+The theme was announced during the SOHOMA 2024 conference.
+In this problem, a robot loads carts with mail containers having the same destination (homogeneous carts).
+There are 250 possible container destinations and only 10 carts around the robot with a fixed capacity.
+Two types of decisions should be made :
+- Which carts around the robot all along the production? 
++ Which containers are treated by the robot  and which are treated manually by operators?
+  
+More details on the problem are available here.
+
+![image](images/Flexibac.png)
+
+
 ## Important dates
 People interested in joining the contest should consider the following planning
 ![image-20231022154230422](images/VisuelPlanningBenchmark.PNG)
@@ -21,34 +34,25 @@ There are no limitations in the number of members in team, that could be constit
 The registration is completely free.
 
 ### *From October to May* : Publication of the problem on the web platform
-The subject of this first edition of IMIC is the Flexibac problem.
-Teams are free to use whatever scientific methods they want to find the best solutions to the given problem.
-Details on this problem are available here. 
-![image](images/Flexibac.png)
+This Github page is the container of all information related to IMIC.
+The following pages are available for team members to access and use :
++ The problem is detailed here
++ A simulator is provided to the teams for testing their tentative solutions. All information about the simulator and its use are available here.
++ A FAQ page will be available soon. 
+The IMIC organization team will make its best to keep the participants informed of any important context modifications, but team members are advised to come on these pages regurlarly to check for any changes.
 
-### 
+### *End of July* : Submission of the contestants' proposals
+The different proposal have to be submitted ==before== **July, 31st, 2025**. The organizing team will not consider proposals coming after this deadline.
+The submission should include :
++ A short paper describing the methodology followed to obtain the solution.
++ The input files needed to check the solution via the simulator (for more information, see the problem page).
++ ... ?
+
+### *From July to September* : Evaluation and validation of the contestants' proposals 
+The different proposals will be evaluated on different criteria related to the quality of the solution but also The quality, rigor, and care taken in the publication.
 
 ## Contest prizes
+To be announced.
 
 ## References
-
-*Guidelines:*
-
-- Please use the Harvard format to list references supporting any data (keyword definition, goal, metric, benchmark exercise, solution, etc.) of the benchmark.
-- Make sure to provide the DOI of the document.
-
-*Template:*
-
-- **Book, one author:** Bell, J. (2010) *Doing your research project*. 5th edn. Maidenhead: Open University Press.
-
-- **One author, book, multiple editions:** Hawking, S.W. (1998) *A brief history of time: From the big bang to black holes*. 10th edn. New York: Bantam Doubleday Dell Publishing Group.
-
-- **Chapter in an edited book:** Jewsiewicki, B. (2010). ‘Historical Memory and Representation of New Nations in Africa’, in Diawara, M., Lategan, B., and Rusen, J. (eds.) *Historical memory in Africa: Dealing with the past, reaching for the future in an intercultural context*. New York: Berghahn Books, pp. 53-66.
-
-- **More than three authors, journal article:** Shakoor, J., et al. (2011) ‘A prospective longitudinal study of children’s theory of mind and adolescent involvement in bullying’, *Journal of Child Psychology and Psychiatry*, 53(3), pp. 254–261. doi: 10.1111/j.1469-7610.2011.02488.x.
-
-- **Conference papers:** Drogen, E. (2014) ‘Changing how we think about war: The role of psychology’, *The British Psychological Society 2014 Annual Conference*. The ICC, Birmingham British Psychological Society, 07-09 May 2014.
-
-- **Web page, by an individual:** Moon, M. (2019) *Ubisoft put an official video game design course inside a video game*. Available at https://www.engadget.com/2019/09/25/ubisoft-video-game-design-course/ (Accessed 19 November 2019).
-
-- **Web page, by a company or organization:** RotoBaller (2019) *NFL player news*. Available at https://www.rotoballer.com/player-news?sport=nfl (Accessed 17 September 2019).
+Indicate the SOHOMA paper.
