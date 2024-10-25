@@ -10,7 +10,6 @@ To do so, the IMIC aims, each year, to propose a manufacturing problem submitted
 Results of the contest will then be considered as candidate solutions of the proposed problem, and will be compared and archived as a new benchmark instance.
 In a couple of years, IMIC is expected to become a reference benchmark for the community.
 
-*Template:*
 ## Important dates
 People interested in joining the contest should consider the following planning
 ![image-20231022154230422](images/VisuelPlanningBenchmark.PNG)
