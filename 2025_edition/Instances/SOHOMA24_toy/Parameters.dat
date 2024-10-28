@@ -1,6 +1,6 @@
-Amax;101;
-Bmax;11;
-Tp;10;
+Amax;1000;
+Bmax;100;
+Tp;8;
 Qmax;16;
-Tc;50;
-EndDate;1001;
+Tc;60;
+EndDate;800;
