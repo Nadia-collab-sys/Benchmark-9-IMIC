@@ -1,6 +1,6 @@
 # Benchmark Problem. "The Flexibac problem"
-
-This template details the expected Minimum Viable Content of a benchmark. The meta-model below formally defines all minimum constitutive elements of a benchmark so as to share reproducible results.
+## Industrial context
+The problem is extracted from an industrial collaboration between the group La Poste (French postal services) and Nantes University. The purpose of this collaboration was to define suitable control strategies for an existing mail sorting system in which a 6-axis robot was going to be introduced. The overall project was called Flexibac, and a schematic representation of the expected result can be seen in the following figure. Pictures of the actual implementation of the robot cannot be shown due to confidentiality issues.
 
 ![image](../images/Flexibac.png)
 
