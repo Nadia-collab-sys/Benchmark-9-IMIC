@@ -4,6 +4,7 @@ The problem is extracted from an industrial collaboration between the group La P
 
 ![image](../images/Flexibac.png)
 
+
 ## Introduction
 
 *Guidelines:*
