@@ -4,6 +4,14 @@ The problem is extracted from an industrial collaboration between the group La P
 
 ![image](../images/Flexibac.png)
 
+## A robot for mail sorting centers
+- A robot loads carts with mail containers (boxes) having the same destination (homogeneous carts)
+- 250 containers destinations, only 10 carts around the robot with a fixed capacity
+- 30 to 40 000 containers to handle each day
+- Around 5 seconds to handle each container
+- Around 1 minute to change a cart (full or not)
+
+
 ## Introduction
 
 *Guidelines:*
